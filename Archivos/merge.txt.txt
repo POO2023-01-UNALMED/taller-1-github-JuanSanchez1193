@@ -1,3 +1,7 @@
 Juan Josè Pineda Sànchez 
 20 y/o
 learn the basics about POO and get used to this tool for getting better programming.
+
+
+
+there could be a conflict with the files if we don't have the last version of the repository.
